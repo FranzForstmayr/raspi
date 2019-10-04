@@ -1,0 +1,12 @@
+[submodule "layers/meta-raspberrypi"]
+	path = layers/meta-raspberrypi
+	url = https://git.yoctoproject.org/git/meta-raspberrypi
+	branch = thud
+[submodule "layers/meta-openembedded"]
+	path = layers/meta-openembedded
+	url = https://github.com/openembedded/meta-openembedded.git
+	branch = thud
+[submodule "layers/poky"]
+	path = layers/poky
+	url = https://git.yoctoproject.org/git/poky
+	branch = thud

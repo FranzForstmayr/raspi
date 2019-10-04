@@ -1,0 +1,10 @@
+.*
+!.git*
+
+cache/
+downloads/
+sstate-cache/
+tmp/
+
+*.log
+conf/sanity_info
